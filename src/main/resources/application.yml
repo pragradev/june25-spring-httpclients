@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: spring-githubuser-client
+server:
+  port: 9093
+
+giturlhost: https://api.github.com/
+giturlendpoint: users/
