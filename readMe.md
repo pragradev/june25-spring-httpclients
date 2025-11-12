@@ -17,3 +17,10 @@ service B:
 
 ## Feign client -> declarative approch of consuming apis
 interfaces , # june25-spring-httpclients
+
+
+## Spring AOP: Aspect oriented programming 
+cutting secondery logics ( logging )
+cross cutting concerns 
+OOPs
+Func programming
